@@ -395,3 +395,4 @@ int loc_eng_dmn_conn_join_thelper(struct loc_eng_dmn_conn_thelper * thelper)
 
     return result;
 }
+

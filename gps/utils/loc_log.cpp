@@ -180,3 +180,4 @@ char * get_timestamp(char *str, unsigned long buf_size)
   snprintf(str, buf_size, "%02d:%02d:%02d.%06ld", hh, mm, ss, tv.tv_usec);
   return str;
 }
+
