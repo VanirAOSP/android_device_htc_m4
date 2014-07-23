@@ -1435,10 +1435,10 @@ SectionDevice
 		'SLIM_0_TX Channels':0:Two
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:64
+		'DEC3 Volume':1:54
 		'SLIM TX4 MUX':0:DEC4
 		'DEC4 MUX':0:DMIC4
-		'DEC4 Volume':1:64
+		'DEC4 Volume':1:54
 	EndSequence
 
 	DisableSequence
@@ -1536,7 +1536,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:54
 		'MICBIAS1 CAPLESS Switch':1:0
 	EndSequence
 
@@ -1625,7 +1625,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:ADC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:54
 		'ADC2 Volume':1:100
 	EndSequence
 
@@ -1646,7 +1646,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:58
 		'MICBIAS1 CAPLESS Switch':1:0
 	EndSequence
 
@@ -1824,7 +1824,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC4
 		'DEC4 MUX':0:DMIC4
-		'DEC4 Volume':1:65
+		'DEC4 Volume':1:54
 		'MICBIAS3 CAPLESS Switch':1:0
 	EndSequence
 
@@ -1957,7 +1957,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:ADC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:52
 		'ADC2 Volume':1:50
 	EndSequence
 
@@ -1978,7 +1978,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:54
 		'MICBIAS1 CAPLESS Switch':1:0
 	EndSequence
 
@@ -2022,7 +2022,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:54
 		'MICBIAS1 CAPLESS Switch':1:0
 	EndSequence
 
@@ -2089,7 +2089,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:ADC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:52
 		'ADC2 Volume':1:50
 	EndSequence
 
@@ -2219,7 +2219,7 @@ SectionDevice
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:ADC2
 		'ADC2 Volume':1:100
-		'DEC3 Volume':1:67
+		'DEC3 Volume':1:60
 	EndSequence
 
 	DisableSequence
@@ -2240,7 +2240,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:67
+		'DEC3 Volume':1:56
 		'MICBIAS3 CAPLESS Switch':1:0
 	EndSequence
 
@@ -2261,7 +2261,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:DMIC2
-		'DEC3 Volume':1:67
+		'DEC3 Volume':1:56
 		'MICBIAS1 CAPLESS Switch':1:0
 		'MICBIAS1 PD MODE':1:1
 	EndSequence
@@ -2284,7 +2284,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:ADC2
-		'DEC3 Volume':1:62
+		'DEC3 Volume':1:54
 		'ADC2 Volume':1:100
 	EndSequence
 
@@ -2412,7 +2412,7 @@ SectionDevice
 		'SLIM_0_TX Channels':0:One
 		'SLIM TX3 MUX':0:DEC3
 		'DEC3 MUX':0:ADC2
-		'DEC3 Volume':1:65
+		'DEC3 Volume':1:54
 		'ADC2 Volume':1:100
 	EndSequence
 
