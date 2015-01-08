@@ -1,5 +1,4 @@
 # Executables
-bin/akmd
 bin/charging
 bin/mm-qcamera-daemon
 bin/mpdecision
@@ -131,6 +130,7 @@ lib/libmmjpeg.so
 lib/libmmstillomx.so
 lib/liboemcamera.so
 lib/libposteffect.so
+lib/libwriteback.so
 
 # GPS
 lib/libgeofence.so
@@ -193,7 +193,6 @@ vendor/lib/libQSEEComAPI.so
 vendor/lib/libWVStreamControlAPI_L1.so
 vendor/lib/libdrmfs.so
 vendor/lib/libdrmtime.so
-vendor/lib/liboemcrypto.so
 vendor/lib/libwvdrm_L1.so
 vendor/lib/libwvm.so
 vendor/lib/mediadrm/libwvdrmengine.so
